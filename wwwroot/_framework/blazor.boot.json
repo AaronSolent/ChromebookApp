@@ -197,7 +197,7 @@
       "Microsoft.Net.Http.Headers.dll": "sha256-P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=",
       "Newtonsoft.Json.dll": "sha256-jB3VwYS04ufq0Glx\/z68tGeDvpciktHesQYXRDabTYA=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "ChromebookWebApp.dll": "sha256-oPGHD64PlzNj3tUZp6VHPa1d5yWKXpI5csMznMzX+T0="
+      "ChromebookWebApp.dll": "sha256-+KFHQDx+K2bVLBbfuydSO5u4MMbAb38wLct4RvSL8uQ="
     },
     "lazyAssembly": null,
     "pdb": null,
