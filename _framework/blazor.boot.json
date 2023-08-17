@@ -193,7 +193,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-82WpISDbT05plFV\/m3Glhh8w1jttcRp+pgJDwKwl7Q0=",
       "Newtonsoft.Json.dll": "sha256-jB3VwYS04ufq0Glx\/z68tGeDvpciktHesQYXRDabTYA=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "ChromebookWebApp.dll": "sha256-NiMGExSit20pq7NaGEkmwrcb0oSPcyVOz3seQo2jEjE="
+      "ChromebookWebApp.dll": "sha256-jBVA80ZnrqDjPufegaQevi6FZHaeMgFP+QEv8ILidO4="
     },
     "lazyAssembly": null,
     "pdb": null,
